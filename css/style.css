@@ -1,4 +1,3 @@
-/* Reset bàsic de marges i font */
 * {
   box-sizing: border-box;
   margin: 0;
@@ -12,9 +11,8 @@ body {
   background-color: #f4f6f8;
 }
 
-/* Fons i estil del Header */
 header {
-  background-color: #1e3a8a; /* Blau fosc */
+  background-color: #1e3a8a; 
   color: #ffffff;
   padding: 30px 20px;
   text-align: center;
@@ -24,16 +22,15 @@ header h1 {
   margin-bottom: 8px;
 }
 
-/* Fons i estructura del Main */
 main {
-  background-color: #e2e8f0; /* Gris clar suau */
+  background-color: #e2e8f0; 
   padding: 30px 20px;
   max-width: 900px;
   margin: 20px auto;
   border-radius: 8px;
 }
 
-/* Seccions interiors */
+
 #presentacio, #aficions {
   margin-bottom: 25px;
 }
@@ -58,9 +55,8 @@ h2 {
   margin-bottom: 6px;
 }
 
-/* Fons i estil del Footer */
 footer {
-  background-color: #0f172a; /* Blau nit molt fosc */
+  background-color: #0f172a;
   color: #94a3b8;
   text-align: center;
   padding: 20px;
